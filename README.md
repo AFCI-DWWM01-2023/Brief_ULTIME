@@ -10,4 +10,4 @@ Les documents sont disponible sur la plateforme Form-e
 * Format Tablette
 * Format Mobile 
 
-![Ultime](profile/img/Ultime maquette.jpg)&nbsp;&nbsp;
+![Ultime](profile/img/Ultime.jpg)&nbsp;&nbsp;
